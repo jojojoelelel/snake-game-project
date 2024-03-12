@@ -12,7 +12,7 @@
 # Snake Game Project
 <div>
   <p>
-    A modified Snake Game made with Java for Object-Oriented Programming course.
+    A modified Snake Game made with Java for Object-Oriented Programming course. 
     <br />
   </p>
 </div>
@@ -105,5 +105,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * Academic resources : https://www3.ntu.edu.sg/home/ehchua/programming/
 * Opening track : BEACH BOYS - I GET AROUND, 1963
 * Gameover track : MY HEART WILL GO ON - RECORDER BY CANDLELIGHT BY MATT MULHOLLAND
-* Partner : Ignatius
+* Partner : Iggyikigai - https://github.com/Iggyikigai
 
